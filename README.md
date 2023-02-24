@@ -6,3 +6,5 @@ For this university project we had to work on:
 - Create a detection program.
 
 A big to my teacher mr A.B and to my colleagues who managed to work with me on this university project.
+
+ps: More details about the implementation may be added soon !
